@@ -1,2 +1,3 @@
 # Finding-DAX-
-A collection of Power BI dashboards that turn raw data into insights (and the occasional pie chart nobody asked for). Expect drill-downs, slicers galore, and DAX magic. Data made useful, slightly entertaining, and definitely more fun than spreadsheets!
+This project analyzes employee stress levels in Indian corporate organizations using a structured dataset covering work conditions, organizational factors, and employee well-being indicators.
+The goal is to identify key stress drivers, observe patterns across demographics and departments, and provide data-driven insights that can help organizations improve employee mental health and productivity.
